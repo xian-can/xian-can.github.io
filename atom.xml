@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>鲜参</title>
-  
+  <icon>https://www.gravatar.com/avatar/0794cc6c41401538642bf134e62083a1</icon>
   <subtitle>一个小白的博客系统</subtitle>
   <link href="http://example.com/atom.xml" rel="self"/>
   
@@ -11,7 +11,7 @@
   
   <author>
     <name>在梦里也许可以叭丶</name>
-    
+    <email>3536496634@qq.com</email>
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
