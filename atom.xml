@@ -3,11 +3,11 @@
   <title>鲜参</title>
   <icon>https://www.gravatar.com/avatar/0794cc6c41401538642bf134e62083a1</icon>
   <subtitle>一个小白的博客系统</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://xian-can.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://xian-can.github.io/"/>
   <updated>2022-11-12T07:33:16.414Z</updated>
-  <id>http://example.com/</id>
+  <id>https://xian-can.github.io/</id>
   
   <author>
     <name>在梦里也许可以叭丶</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>xiancan</title>
-    <link href="http://example.com/posts/8ec6a2ad.html"/>
-    <id>http://example.com/posts/8ec6a2ad.html</id>
+    <link href="https://xian-can.github.io/posts/8ec6a2ad.html"/>
+    <id>https://xian-can.github.io/posts/8ec6a2ad.html</id>
     <published>2022-11-12T06:33:01.000Z</published>
     <updated>2022-11-12T07:33:16.414Z</updated>
     
@@ -27,14 +27,14 @@
     
     
     
-    <category term="aaa" scheme="http://example.com/tags/aaa/"/>
+    <category term="aaa" scheme="https://xian-can.github.io/tags/aaa/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/posts/4a17b156.html"/>
-    <id>http://example.com/posts/4a17b156.html</id>
+    <link href="https://xian-can.github.io/posts/4a17b156.html"/>
+    <id>https://xian-can.github.io/posts/4a17b156.html</id>
     <published>2022-11-12T06:08:55.839Z</published>
     <updated>2022-11-12T07:33:16.411Z</updated>
     
